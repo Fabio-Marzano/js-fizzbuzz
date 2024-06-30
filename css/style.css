@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    
+    margin: 0 auto;
+    
+}
+
+.square {
+    width: 120px;
+    height: 120px;
+    background-color: green;
+    border: 1px solid #000000;
+    
+    
+}
+
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fizz {
+    background-color: red;
+}
+
+.buzz {
+    background-color: blue;
+}
+
+.fizzbuzz {
+    background-color: yellow;
+}
