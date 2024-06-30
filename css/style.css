@@ -6,7 +6,7 @@
 
 .container {
     width: 1200px;
-    
+    background-color: #083b4c;
     margin: 0 auto;
     
 }
@@ -14,7 +14,7 @@
 .square {
     width: 120px;
     height: 120px;
-    background-color: green;
+    background-color: #1389b2;
     border: 1px solid #000000;
     
     
@@ -26,13 +26,13 @@
 }
 
 .fizz {
-    background-color: red;
+    background-color: #0cd6a1;
 }
 
 .buzz {
-    background-color: blue;
+    background-color: #ffd166;
 }
 
 .fizzbuzz {
-    background-color: yellow;
+    background-color: #f0466f;
 }
